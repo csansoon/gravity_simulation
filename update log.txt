@@ -1,0 +1,2 @@
+0.3.1	Bug fix. El movimiento de la cámara no funcionaba correctamente si se modificaba el zoom y el tamaño de la ventana.
+0.3.0	Añadida interfaz de prueba en la pantalla.
